@@ -2,9 +2,9 @@ module.exports = Object.freeze({
   
   PROTOCOL : 'http://',
   
-  IP : '112.74.73.147',
+  IP : '127.0.0.1',
   
-  PORT : '80',
+  PORT : '3000',
 
 })
 
